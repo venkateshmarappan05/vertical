@@ -1,0 +1,22 @@
+.textBox{
+    width: 50% !important;
+}
+.messages {
+    font-size: 14px !important;
+    border-radius: 3px;
+    line-height: 19px;
+    color: red;
+}
+
+.mrgn_lft55 {
+   margin-left: 55px;
+}
+.table thead th {
+    vertical-align: none;
+}
+ .table th {
+    vertical-align: none;
+ }
+ tr{
+     text-align: center;
+ }
